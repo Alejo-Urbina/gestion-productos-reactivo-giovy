@@ -1,0 +1,5 @@
+CREATE TABLE productos (
+  id INTEGER AUTO_INCREMENT PRIMARY KEY,
+  nombre VARCHAR(100),
+  precio DECIMAL(10, 2)
+);
